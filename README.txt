@@ -1,1 +1,1 @@
-Hello my fucking Git friends
+Hello my  Git friends
